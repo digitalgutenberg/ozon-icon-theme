@@ -13,7 +13,7 @@ Download, [download the source](https://github.com/digitalgutenberg/ozon-reboote
 **You can also run the following commands in your terminal:**
 ```bash
 git clone https://github.com/digitalgutenberg/ozon-rebooted-icon-theme.git
-cd ozon-icon-theme
+cd ozon-rebooted-icon-theme
 make install
 ```
 
