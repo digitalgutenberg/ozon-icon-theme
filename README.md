@@ -2,7 +2,7 @@
 This is a fork of the default icon theme for OzonOS, which is now defunct. It also contains several variants with different coloured folders. It's licensed under the GNU GPLv3.
 
 ## Installing
-Download, [download the source](https://github.com/digitalgutenberg/ozon-rebooted-icon-theme/archive/master.zip), extract it, and copy the "Ozon" folder to one of the following icon theme locations:
+[Download the source](https://github.com/digitalgutenberg/ozon-rebooted-icon-theme/archive/master.zip), extract it, and copy the "Ozon" folder to one of the following icon theme locations:
 
 * **Global** (all users)
   * `/usr/share/icons/`
