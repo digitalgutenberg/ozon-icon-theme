@@ -14,10 +14,25 @@
    height="48"
    id="svg4230"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
    sodipodi:docname="sublime-text.svg">
   <defs
      id="defs4232">
+    <inkscape:path-effect
+       effect="interpolate_points"
+       id="path-effect4983"
+       is_visible="true"
+       interpolator_type="CentripetalCatmullRom" />
+    <inkscape:path-effect
+       effect="interpolate_points"
+       id="path-effect4981"
+       is_visible="true"
+       interpolator_type="CentripetalCatmullRom" />
+    <inkscape:path-effect
+       effect="interpolate_points"
+       id="path-effect4979"
+       is_visible="true"
+       interpolator_type="CentripetalCatmullRom" />
     <linearGradient
        id="linearGradient3869">
       <stop
@@ -290,26 +305,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3869"
-       id="linearGradient3875"
-       x1="25"
-       y1="39"
-       x2="25"
-       y2="8"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.90322581,0,0,0.90322581,2.2400704,1.7741934)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3869"
-       id="linearGradient3863"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.90322581,0,0,0.90322581,2.24007,1.7741934)"
-       x1="25"
-       y1="39"
-       x2="25"
-       y2="8" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3869"
        id="linearGradient3871"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.90322581,0,0,0.90322581,0.2400704,1.7741934)"
@@ -317,6 +312,28 @@
        y1="39"
        x2="25"
        y2="8" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4766"
+       id="linearGradient4768"
+       x1="-113.77083"
+       y1="111.79167"
+       x2="-84.666672"
+       y2="109.14583"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7795276,0,0,3.7795276,220.00002,-414.51968)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4766">
+      <stop
+         style="stop-color:#fd971f;stop-opacity:1;"
+         offset="0"
+         id="stop4762" />
+      <stop
+         style="stop-color:#e48212;stop-opacity:1"
+         offset="1"
+         id="stop4764" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -325,19 +342,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="40.892888"
-     inkscape:cy="25.622176"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="-34.346007"
+     inkscape:cy="34.090126"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1395"
-     inkscape:window-height="895"
-     inkscape:window-x="197"
-     inkscape:window-y="51"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true">
     <inkscape:grid
@@ -346,79 +363,98 @@
     <sodipodi:guide
        position="1.0000013,47.000017"
        orientation="46,0"
-       id="guide4163" />
+       id="guide4163"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1.0000013,1.0000174"
        orientation="0,45.999999"
-       id="guide4165" />
+       id="guide4165"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="47,1.0000174"
        orientation="-46,0"
-       id="guide4167" />
+       id="guide4167"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="47,47.000017"
        orientation="0,-45.999999"
-       id="guide4169" />
+       id="guide4169"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2.0000007,46.000017"
        orientation="44,0"
-       id="guide4173" />
+       id="guide4173"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2.0000007,2.0000174"
        orientation="0,43.999999"
-       id="guide4175" />
+       id="guide4175"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="46,2.0000174"
        orientation="-44,0"
-       id="guide4177" />
+       id="guide4177"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="46,46.000017"
        orientation="0,-43.999999"
-       id="guide4179" />
+       id="guide4179"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="3,45.000017"
        orientation="42,0"
-       id="guide4183" />
+       id="guide4183"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="45,3.0000174"
        orientation="-42,0"
-       id="guide4187" />
+       id="guide4187"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="45,45.000017"
        orientation="0,-42"
-       id="guide4189" />
+       id="guide4189"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="3,45.000017"
        orientation="42,0"
-       id="guide4193" />
+       id="guide4193"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="3,3.0000174"
        orientation="0,42"
-       id="guide4195" />
+       id="guide4195"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="45,3.0000174"
        orientation="-42,0"
-       id="guide4197" />
+       id="guide4197"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="45,45.000017"
        orientation="0,-42"
-       id="guide4199" />
+       id="guide4199"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="3,10.000017"
        orientation="7,0"
-       id="guide4203" />
+       id="guide4203"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="3,3.0000174"
        orientation="0,42"
-       id="guide4205" />
+       id="guide4205"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="45,3.0000174"
        orientation="-7,0"
-       id="guide4207" />
+       id="guide4207"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="45,10.000017"
        orientation="0,-42"
-       id="guide4209" />
+       id="guide4209"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata4235">
@@ -484,42 +520,27 @@
        y="1.9999826"
        ry="9"
        rx="9" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text3084"
-       y="35.083313"
-       x="11.073914"
-       style="font-size:36.41351318px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.5;fill:url(#linearGradient3875);fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:url(#linearGradient3875);fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
-         y="35.083313"
-         x="11.073914"
-         id="tspan3086"
-         sodipodi:role="line">S</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3863"
-       y="35.986538"
-       x="11.073914"
-       style="font-size:36.41351318px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-       xml:space="preserve"><tspan
-         y="35.986538"
-         x="11.073914"
-         id="tspan3865"
-         sodipodi:role="line"
-         style="-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">S</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:36.41351318px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3863);fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-       x="11.073914"
-       y="35.083313"
-       id="text3859"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3861"
-         x="11.073914"
-         y="35.083313"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3863);fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">S</tspan></text>
+    <path
+       style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13135791px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 35,9 -22,7.333984 v 8 c 9.101961,3.125924 8.504956,2.916485 9.486328,3.216797 C 22.306675,27.616111 22.486214,27.550468 13,31 v 8 L 35,31.666016 V 23 L 25.941406,20.333984 35,17.666016 Z"
+       id="path4715-6-3"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g928"
+       transform="matrix(0.12941177,0,0,0.13333332,40.17647,28.93333)">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4715-6"
+         d="M -40,-51.99999 V 13 L -209.99999,68.00003 V 8.00002 c 170,-60.00001 -4e-5,0 169.99999,-60.00001 z"
+         style="fill:url(#linearGradient4768);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path4715-7"
+         d="m -209.99999,-102 169.99998,-55 v 64.999998 L -110,-72 -40.00001,-52.00001 V 12.99997 C -210.00003,-42 -81.8358,0.72134 -209.99999,-42.00002 Z"
+         style="fill:#fd971f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
   </g>
   <g
      inkscape:label="Symbol"
