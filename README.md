@@ -17,5 +17,4 @@ cd ozon-rebooted-icon-theme
 make install
 ```
 
-## Hardcoded Icons
-To deal with hardcoded application icons Ozon uses the [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) script. To deal with hardcoded status icons we recommend you use the [Hardcode Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script.
+
