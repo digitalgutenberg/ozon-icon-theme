@@ -14,7 +14,7 @@
    height="48"
    id="svg4230"
    version="1.1"
-   inkscape:version="0.91pre2 r13566 custom"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="gitg.svg">
   <defs
      id="defs4232">
@@ -299,7 +299,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="24"
+     inkscape:cx="-188"
      inkscape:cy="24"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -307,9 +307,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="954"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true">
@@ -319,79 +319,98 @@
     <sodipodi:guide
        position="1.0000013,47.000017"
        orientation="46,0"
-       id="guide4163" />
+       id="guide4163"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1.0000013,1.0000174"
        orientation="0,45.999999"
-       id="guide4165" />
+       id="guide4165"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="47,1.0000174"
        orientation="-46,0"
-       id="guide4167" />
+       id="guide4167"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="47,47.000017"
        orientation="0,-45.999999"
-       id="guide4169" />
+       id="guide4169"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2.0000007,46.000017"
        orientation="44,0"
-       id="guide4173" />
+       id="guide4173"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2.0000007,2.0000174"
        orientation="0,43.999999"
-       id="guide4175" />
+       id="guide4175"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="46,2.0000174"
        orientation="-44,0"
-       id="guide4177" />
+       id="guide4177"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="46,46.000017"
        orientation="0,-43.999999"
-       id="guide4179" />
+       id="guide4179"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="3,45.000017"
        orientation="42,0"
-       id="guide4183" />
+       id="guide4183"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="45,3.0000174"
        orientation="-42,0"
-       id="guide4187" />
+       id="guide4187"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="45,45.000017"
        orientation="0,-42"
-       id="guide4189" />
+       id="guide4189"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="3,45.000017"
        orientation="42,0"
-       id="guide4193" />
+       id="guide4193"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="3,3.0000174"
        orientation="0,42"
-       id="guide4195" />
+       id="guide4195"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="45,3.0000174"
        orientation="-42,0"
-       id="guide4197" />
+       id="guide4197"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="45,45.000017"
        orientation="0,-42"
-       id="guide4199" />
+       id="guide4199"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="3,10.000017"
        orientation="7,0"
-       id="guide4203" />
+       id="guide4203"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="3,3.0000174"
        orientation="0,42"
-       id="guide4205" />
+       id="guide4205"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="45,3.0000174"
        orientation="-7,0"
-       id="guide4207" />
+       id="guide4207"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="45,10.000017"
        orientation="0,-42"
-       id="guide4209" />
+       id="guide4209"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata4235">
